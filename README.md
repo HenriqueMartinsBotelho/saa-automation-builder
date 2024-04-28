@@ -12,6 +12,8 @@ Welcome to SaaS Automation Builder, a comprehensive solution designed to streaml
 - **Stripe Payment Processing**: Comprehensive suite of payment processing tools for online and in-app purchases, subscriptions, and invoice management.
 - **Bun JavaScript Runtime**: A modern JavaScript runtime, bundler, and package manager, designed for speed and efficiency in development and production environments.
 
+![SaaS Automation Builder](./screen1.png)
+
 ## Getting Started
 
 To get started with SaaS Automation Builder, follow these steps:
